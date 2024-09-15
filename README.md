@@ -50,3 +50,7 @@ The dashboard includes:
 ### Tools Used
 - **Power BI**: For creating the dashboard and visualizations.
 - **Data Processing**: Cleaned and processed data in Power BI for effective visualization.
+
+
+![Screenshot 2024-09-15 163358](https://github.com/user-attachments/assets/b4719bb8-da36-483e-8752-7329f8266e11)
+
